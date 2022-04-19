@@ -49,7 +49,7 @@ import { GoogleLogInComponent } from './google-log-in/google-log-in.component';
           {
             id: GoogleLoginProvider.PROVIDER_ID,
             provider: new GoogleLoginProvider(
-              '686552421880-hkfl7jppqm0247v9pibcg7qv7f2s0ln0.apps.googleusercontent.com'
+              '686552421880-hkfl7jppqm0247v9pibcg7qv7f2s0ln0'
             )
           }
         ]
